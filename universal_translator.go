@@ -3,7 +3,7 @@ package translator
 import (
 	"strings"
 
-	"github.com/gostores/locales"
+	"github.com/govenue/locales"
 )
 
 // UniversalTranslator holds all locale & translation data

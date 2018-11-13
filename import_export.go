@@ -9,7 +9,7 @@ import (
 
 	"io"
 
-	"github.com/gostores/locales"
+	"github.com/govenue/locales"
 )
 
 type translation struct {

@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gostores/locales"
-	"github.com/gostores/locales/en"
-	"github.com/gostores/locales/en_CA"
-	"github.com/gostores/locales/nl"
+	"github.com/govenue/locales"
+	"github.com/govenue/locales/en"
+	"github.com/govenue/locales/en_CA"
+	"github.com/govenue/locales/nl"
 )
 
 // NOTES:

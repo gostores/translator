@@ -7,9 +7,9 @@ import (
 
 	"os"
 
-	"github.com/gostores/locales"
-	"github.com/gostores/locales/en"
-	"github.com/gostores/locales/nl"
+	"github.com/govenue/locales"
+	"github.com/govenue/locales/en"
+	"github.com/govenue/locales/nl"
 )
 
 // NOTES:

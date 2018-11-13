@@ -3,7 +3,7 @@ package translator
 import (
 	"testing"
 
-	"github.com/gostores/locales/en"
+	"github.com/govenue/locales/en"
 )
 
 func BenchmarkBasicTranslation(b *testing.B) {
